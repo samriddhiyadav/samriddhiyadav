@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Engineer | AWS Architect | Distributed Systems | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Cloud-native+Engineer+building+scalable+distributed+systems;AWS+Serverless+%7C+VPC+Security+%7C+Auto-Scaling+Architectures;Full-stack+developer+shipping+production-grade+platforms+with+AI+capabilities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=950&lines=Cloud-native+Engineer+building+scalable+distributed+systems;AWS+Serverless+%7C+VPC+Security+%7C+Auto-Scaling+Architectures;Full-stack+developer+shipping+production-grade+platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
