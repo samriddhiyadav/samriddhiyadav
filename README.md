@@ -90,7 +90,4 @@ WAF, Config, Inspector, Macie, and KMS usage patterns for continuous governance.
 - Production-ready full-stack systems with clean architecture
 - AI-enabled application design with measurable product impact
 
-## Connect
-- GitHub: https://github.com/samriddhiyadav
-- LinkedIn: https://www.linkedin.com/in/samriddhi-yadav-2194b4325/
-- Email: samriddhiyadav24@gmail.com
+
