@@ -46,11 +46,12 @@ I build secure, scalable cloud systems and production-grade full-stack applicati
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samriddhiyadav&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=1800" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhiyadav&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=1800" height="170" alt="Top languages" />
+  <!-- Added cache-busting parameter t=YYYYMMDD – change this to force a fresh fetch -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samriddhiyadav&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true&t=20260728" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhiyadav&layout=compact&langs_count=8&theme=transparent&hide_border=true&t=20260728" height="170" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samriddhiyadav&theme=transparent&hide_border=true&cache_seconds=1800" height="170" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=samriddhiyadav&theme=transparent&hide_border=true&t=20260728" height="170" alt="GitHub streak" />
 </p>
 
 ## Featured Projects
@@ -94,4 +95,3 @@ WAF, Config, Inspector, Macie, and KMS usage patterns for continuous governance.
 - GitHub: https://github.com/samriddhiyadav
 - LinkedIn: https://www.linkedin.com/in/samriddhi-yadav-2194b4325/
 - Email: samriddhiyadav24@gmail.com
-
