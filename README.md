@@ -44,14 +44,9 @@ I build secure, scalable cloud systems and production-grade full-stack applicati
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## GitHub Stats
+## GitHub Metrics
 <p align="center">
-  <!-- Added cache-busting parameter t=YYYYMMDD – change this to force a fresh fetch -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samriddhiyadav&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true&t=20260728" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhiyadav&layout=compact&langs_count=8&theme=transparent&hide_border=true&t=20260728" height="170" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samriddhiyadav&theme=transparent&hide_border=true&t=20260728" height="170" alt="GitHub streak" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ## Featured Projects
