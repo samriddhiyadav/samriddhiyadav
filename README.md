@@ -44,9 +44,21 @@ I build secure, scalable cloud systems and production-grade full-stack applicati
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## GitHub Metrics
+## GitHub Stats & Activity
+
+<!-- Contribution Graph (stable) -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samriddhiyadav&theme=github-compact&hide_border=true" width="95%" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samriddhiyadav&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<!-- Streak Stats (still working) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samriddhiyadav&theme=transparent&hide_border=true&cache_seconds=1800" height="170" alt="GitHub streak" />
 </p>
 
 ## Featured Projects
